@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "titulo": "Booster Box Neon Destiny Kamigawa",
+        "precio": 1500,
+        "descrip": "Caja Sellada Edición Dominaria, contiene 36 boosters. Edición Limitada",
+        "imagen": "assets/img/boosterBoxKamigawa.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Booster Box New Capenna",
+        "precio": 2000,
+        "descrip": "Caja Sellada Edición New Capenna, contiene 36 boosters. Edición Limitada",
+        "imagen": "assets/img/boosterBoxNewCapenna.png"
+    },
+    {
+        "id": 3,
+        "titulo": "Booster Box Dominaria",
+        "precio": 2500,
+        "descrip": "Caja Sellada Edición Dominaria, contiene 36 boosters. Edición Limitada",
+        "imagen": "assets/img/boosterBoxDominaria.png"
+    }
+]
