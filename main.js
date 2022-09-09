@@ -79,7 +79,7 @@ function renderizarCarrito() {
             <div class="cart-table-body-item">$${producto.precio}</div>
             <div class="cart-table-body-item">${producto.cantidad}</div>
             <div class="cart-table-body-item"><img src="${producto.imagen}" style="width:100px" </img></div>
-            <div class="cart-table-body-item"><div class="del-btn btn btn-secondary mx-1" id="btn-borrar-${producto.id}" onClick="borrarUno(${producto.id})">-</div><div class="del-btn btn btn-secondary" id="btn-borrar-${producto.id}" onClick="borrarProducto(${producto.id})">Eliminar</div></div>
+            <div class="cart-table-body-item"><div class="del-btn btn btn-secondary" id="btn-borrar-${producto.id}" onClick="borrarProducto(${producto.id})">Eliminar</div></div>
         </div>`
     })
 }
